@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Shivam-Gaikwad
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently exlopring B.E. IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi , I'm Shivam Gaikwad
 
-<!---
-Shivam-Gaikwad/Shivam-Gaikwad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Aspiring Full-Stack Developer | Backend Enthusiast | Lifelong Learner 
+
+I'm a Computer Engineering graduate from India with a passion for building scalable web applications and continuously learning modern technologies. I enjoy solving real-world problems through code and am currently focusing on full-stack development and backend engineering.
