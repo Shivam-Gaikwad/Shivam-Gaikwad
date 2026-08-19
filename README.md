@@ -107,26 +107,7 @@ Advanced Backend Development
         ↓
 Full Stack Applications
 ```
-```
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Gaikwad&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Gaikwad&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam-Gaikwad&theme=tokyonight" />
-</p>
-
----
-```
 ## 🤝 Let's Connect
 
 <p>
