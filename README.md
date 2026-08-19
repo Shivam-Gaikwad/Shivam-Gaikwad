@@ -39,7 +39,7 @@ Currently, I'm strengthening my skills in **Full Stack Development**, with a str
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
@@ -51,7 +51,7 @@ Currently, I'm strengthening my skills in **Full Stack Development**, with a str
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ Advanced Backend Development
         ↓
 Full Stack Applications
 ```
-
+```
 ---
 
 ## 📊 GitHub Stats
@@ -126,7 +126,7 @@ Full Stack Applications
 </p>
 
 ---
-
+```
 ## 🤝 Let's Connect
 
 <p>
