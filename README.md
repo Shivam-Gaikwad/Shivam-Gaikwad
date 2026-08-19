@@ -72,15 +72,7 @@ An e-commerce web application developed as a full-stack project.
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
 
----
 
-### 📧 AI Smart Email Assistant
-
-An AI-powered Chrome extension designed to assist users with email-related tasks.
-
-**Tech:** React.js, Spring Boot, Gemini API
-
----
 
 ### 🌐 Social Media Dashboard
 
