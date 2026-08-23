@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivam Gaikwad
 
-### 💻 Full Stack Developer | MERN Stack | Backend Enthusiast
+### 💻 Full Stack Developer | MERN Stack 
 
 I'm an **Information Technology Engineering student** passionate about building modern, scalable, and user-friendly web applications.
 
